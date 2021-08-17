@@ -38,4 +38,4 @@ No problem. Let’s code up a web scraper that can automate the process of manua
 
 &nbsp;
 
-**PR Link**: <https://github.com/YAHIAQOUS/web-scraping/pull/2>
+**PR Link**: <https://github.com/YAHIAQOUS/web-scraping/pull/1>
